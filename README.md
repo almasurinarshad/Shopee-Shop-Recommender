@@ -8,4 +8,4 @@
 6. The ranking table also show the detail of the shop that available according to your filter.
 7. Sorting is allow in the table.
 
-This is the link to the apps: 
+This is the link to the apps: https://almasurinarshad.shinyapps.io/WQD7001_PROJECT_SHOPPERECOMMENDER/
